@@ -10,7 +10,7 @@ Note: This app is just the MVP of real project that will be launched in October.
 
 
 ## Team Members Descriptioon:
-<li>Priyanshu Pal - DCH-8371</li>
+<li>Priyanshu bal - DCH-8371</li>
 <li>Nandini Gupta - DCH-8368</li>
 <li>Riya Bhatla - DCH-8367</li>
 <li>Khushi Modi - DCH-8370</li>
