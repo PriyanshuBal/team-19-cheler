@@ -6,7 +6,7 @@
 
 # Project Description
 Main objective is to provide online platform for tender passing .The biding and passing of tender consumes a lot of time ,this application will shorten this process and will provide transparency and data security.
-Note: This app is just the MVP of real project that will be launched in October.QO
+Note: This app is just the MVP of real project that will be launched in October.
 
 
 ## Team Members Descriptioon:
